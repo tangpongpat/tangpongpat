@@ -1,3 +1,1 @@
-
-
-![Daft Punk - Get Lucky]([https://media.giphy.com/media/ZCKh7knqLpc4M/giphy.gif](https://giphy.com/gifs/daft-punk-interstella-5555-ymeUOkullmWn6))
+![Daft Punk - Interstella 5555](https://media.giphy.com/media/ymeUOkullmWn6/giphy.gif)
