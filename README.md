@@ -1,2 +1,2 @@
 ## 🐍🐍🐍🐍
-▶️ (https://tangpongpat.github.io/snake-game/)
+▶️ (https://tangpongpat.github.io/snake_game/)
